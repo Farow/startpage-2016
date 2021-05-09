@@ -1,3 +1,5 @@
+Updated version that also works as a browser extension: https://github.com/Farow/startpage
+
 A simple starpage with keyboard navigation.
 
 - `WASD` to move in a direction
